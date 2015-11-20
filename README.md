@@ -67,3 +67,6 @@ Create a business starter kit
 
 ###Business Hackathon?
 The “Business Innovation Hackathon” combines activities from the area of “Business Innovation” in form of a “Hackathon”. In doing so, “Business Innovation” indicates the process of the development of new business models, products, and services. The concept “Hackathon” originally stems from the area of rapid software development. We transferred the speed of “hacking” and its focus on real solutions onto the business world!
+
+**Another Great Video!**
+[![](3.jpg)](https://vimeo.com/46454407)
